@@ -1,0 +1,215 @@
+@font-face {
+    font-family: fonte;
+    src: url(fontes/Anton/Anton-Regular.ttf) format(TrueType);
+}
+
+
+
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#091A72;
+}
+#Hera{
+    height: 100px;
+    font-family: fonte;
+    background-color: #8E1027;
+    color: #091A72;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+#deusa{
+     margin-top: 5px;
+}
+#links{
+    margin-top: 8px;
+    height: 50px;
+    background-color: #8E1027;
+    display: flex;
+    justify-content: space-around;
+    font-size: 22px;
+}
+.abc{
+    margin-top: 10px;
+}
+#texto{
+    display: flex;
+    justify-content: baseline;
+}
+#titulo{
+    display:flex;
+    font-family: fonte;
+    justify-content: center;
+    width: 1000px;
+    color:white;
+    font-size:35px;
+}
+p#quem{ 
+    font-size: 25px;
+    color:white;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+#familia{ 
+    border-radius: 20px;
+    margin-left: 200px;
+    background-color: #8E1027;
+    width: 1000px;
+    height: 450px;
+}
+#HERA{
+    display:flex;
+    font-family: fonte;
+    justify-content: center;
+    width: 1000px;
+    color:white;
+    font-size:50px;
+}
+#familia{
+    color:white;
+    font-size:35px;
+}
+#plantas{
+    height: 425px;
+    width: 400px;
+    margin-right: 300px;
+    border-radius: 20px;
+    background-color: #8E1027;
+}
+#indicações{
+    display:flex;
+    margin-top: -550px;
+    margin-left: 90px;
+    font-family: fonte;
+    color:white;
+    font-size:35px;
+}
+#ind{
+    width: 500px;
+    height: 5px;
+    color:white;
+    font-size:25px; 
+}
+#pl{
+    display:flex;
+    margin-left: 10px;
+    font-family: fonte;
+    width: 1000px;
+    color:white;
+    font-size:20px; 
+}
+#roma{
+    height: 150px;
+    width: 150px;
+}
+#rom{
+    margin-top: -30px;
+    margin-left: 50px;
+    font-family: fonte;
+    width: 500px;
+    height: 5px;
+    color:white;
+    font-size:25px;   
+}
+#lirio{
+    margin-left: 50px;
+    height: 150px;
+    width: 150px;
+}
+#lir{
+    margin-top: -20px;
+    margin-left: 200px;
+    font-family: fonte;
+    width: 500px;
+    height: 0px;
+    color:white;
+    font-size:25px;    
+}
+#maça{
+    margin-top: -20px;
+    margin-left: 90px;
+    height: 100px;
+    width: 100px;
+}
+#mac{
+    margin-left: 100px;
+    font-family: fonte;
+    width: 500px;
+    height: 0px;
+    color:white;
+    font-size:25px;
+}
+#vintage{
+    margin-top: 50px;
+    height: 305px;
+    width: 305px;
+    border-radius: 100px;
+    border: 20px solid #8E1027;
+}
+#trono{
+    margin-left: 100px;
+    height: 400px;
+    width: 400px;
+}
+#sla{
+     display: flex;
+     justify-content: baseline;
+     margin-top: 50px;
+}
+#sim{
+    display: flex;
+     justify-content: baseline;
+}
+#sla2{
+    display: flex;
+     justify-content: baseline;
+     margin-top: 50px;
+     margin-left: 1000px;
+}
+#meu{
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 350px;
+    width: 350px;
+    border-radius: 100px;
+    border: 20px solid #8E1027;
+}
+#pavao{
+    margin-top: 50px;
+    height: 505px;
+    width: 305px;
+    border-radius: 100px;
+    border: 20px solid #8E1027;
+}
+#vermelho{
+    display: flex;
+    margin-top: 400px;
+    margin-left: 800px;
+    background-color: #8E1027;
+    border: 20px solid #8E1027;
+    height: 500px;
+    width: 1000px;
+}
+#sobremim{
+    display:flex;
+    margin-top: -50px;
+    margin-left: 350px;
+    font-family: fonte;
+    color:white;
+    font-size:35px;
+}
+#sobre{
+    margin-top: 100px;
+    margin-left: -600px;
+    width: 900px;
+    height: 5px;
+    color:white;
+    font-size:25px;
+}
+#euu{
+    margin-top: 300px;
+    margin-left: -900px;
+    height: 200px;
+    width: 200px;
+}
